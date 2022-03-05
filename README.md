@@ -1,2 +1,2 @@
 # github-pages-on-ipfs
-automatically publish your github page to IPFS!
+use this template to automatically publish your github page to IPFS
